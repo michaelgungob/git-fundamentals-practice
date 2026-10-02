@@ -1,2 +1,3 @@
 Hello! This is my Git Fundamentals practice.
 I am learning how Git works.
+Git helps me keep track of my project changes.
